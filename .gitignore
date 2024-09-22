@@ -1,0 +1,18 @@
+# Ignore target directory (Maven build output)
+target/
+
+# Ignore .idea directory (for IntelliJ IDEA projects)
+.idea/
+
+# Ignore any IntelliJ project files
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore system files like DS_Store (macOS)
+.DS_Store
+
+# Ignore Android-specific build files
+build/
+
